@@ -25,7 +25,7 @@ luku = 0
 print("Kysyn sinulta numeroita, kunnes annat jonkin luvun uudelleen")
 
 # while-toistossa jatketaan, kunnes jatketaan = False
-while jatketaan:
+while jatketaan:        # sama kuin while jatketaan == True:
     luku = int( input("Anna luku: ") )
     # tarkistetaan onko luku jo annettu
     if luku in numerot:

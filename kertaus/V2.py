@@ -1,5 +1,5 @@
 '''
-Vastaukset tehtäviin löytyvät tiedostosta V2
+Vastaukset tiedoston T2 tehtäviin
 '''
 
 """
